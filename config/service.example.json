@@ -1,0 +1,20 @@
+{
+  "database": "runtime/service.sqlite3",
+  "bot_secret_env": "SHATLI_BOT_SECRET",
+  "sales_enabled": false,
+  "support_contact": "@hjjkjjk",
+  "terms_url": null,
+  "privacy_url": null,
+  "free_tweak_ids": [
+    "game_capture_off",
+    "transparency_off",
+    "mouse_acceleration_off"
+  ],
+  "plans": {
+    "PRO": {
+      "lifetime": true,
+      "stars": 300
+    }
+  },
+  "lifetime_pro_users": []
+}

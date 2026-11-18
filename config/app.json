@@ -1,0 +1,39 @@
+{
+  "product_name": "Shatli FLUX",
+  "version": "1.4.5",
+  "stage": 5,
+  "catalog_version": "1.0.0 · 23 настройки",
+  "release_public_key": "",
+  "window": {
+    "width": 1100,
+    "height": 720,
+    "min_width": 960,
+    "min_height": 640
+  },
+  "ui": {
+    "animation_duration_ms": 0
+  },
+  "paths": {
+    "font": "app/assets/fonts/Muli-Regular.ttf",
+    "font_semibold": "app/assets/fonts/Muli-SemiBold.ttf",
+    "font_cyrillic": "app/assets/fonts/Mulish-Regular.ttf",
+    "font_cyrillic_semibold": "app/assets/fonts/Mulish-SemiBold.ttf",
+    "icons": "app/assets/icons",
+    "stylesheet": "app/ui/theme.qss",
+    "network_config": "config/network.json",
+    "user_data": "%APPDATA%/ShatliFlux",
+    "log": "log.txt",
+    "backup": "backup.json",
+    "backup_lock": "backup.lock",
+    "token": "session.dpapi",
+    "restore_script": "app/core/scripts/create_restore_point.ps1",
+    "system_info_script": "app/core/scripts/system_info.ps1",
+    "benchmark_script": "app/core/scripts/benchmark.ps1",
+    "game_capture_script": "app/core/scripts/game_capture.ps1",
+    "presentmon": "app/assets/tools/PresentMon.exe",
+    "powershell": "%SystemRoot%/System32/WindowsPowerShell/v1.0/powershell.exe",
+    "restore_wizard": "%SystemRoot%/System32/rstrui.exe",
+    "powercfg": "%SystemRoot%/System32/powercfg.exe",
+    "whoami": "%SystemRoot%/System32/whoami.exe"
+  }
+}

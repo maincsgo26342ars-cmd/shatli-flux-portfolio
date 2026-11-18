@@ -1,0 +1,11 @@
+Shatli FLUX UI icons, 2026.
+
+Original SVG geometry authored specifically for this project, not downloaded
+or traced from a third-party icon pack. This is one consistent line-icon set.
+
+Permission is granted to use, copy, modify, distribute and sell these SVG assets
+as part of Shatli FLUX or other software, without attribution requirements.
+The assets are provided "AS IS", without warranty of any kind.
+
+This grant covers only these original SVG files. It does not grant rights to
+the user's forest image, the Muli/Mulish fonts, or any third-party marks.

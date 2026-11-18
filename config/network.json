@@ -1,0 +1,11 @@
+{
+  "allowed_origins": [
+    "http://127.0.0.1:8000",
+    "https://t.me"
+  ],
+  "api_base_url": "http://127.0.0.1:8000",
+  "telegram_bot_url": "https://t.me/Shatli_bot",
+  "updates_url": null,
+  "tweaks_documentation_url": null,
+  "allow_http_loopback": true
+}

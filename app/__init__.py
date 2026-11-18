@@ -1,0 +1,1 @@
+"""Shatli FLUX desktop client."""
